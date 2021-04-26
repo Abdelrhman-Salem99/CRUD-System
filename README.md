@@ -7,7 +7,6 @@ Technology I used
 - Bootstrap
 - js
 - jquery
-- API
 - Regex
 
 --- 
